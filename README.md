@@ -3,7 +3,8 @@
 This project is used to practice Git and GitHub collaboration workflows.
 
 ## Feature
-A minimal repository to practice Issues, Pull Requests, Reviews, and CI.
+Practice GitHub collaboration: issues, branches, pull requests, reviews, and CI.
+
 
 ## How to contribute
 - Open an issue
